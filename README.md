@@ -1,1 +1,1 @@
-<img alt="BE GONE WITH YOU DEMON! IN THE NAME OF LINUS I COMMAND YOU LEAVE THIS DEVICE LEAVE THIS FAMILY IN PEACE BY THE POWER OF LINUS BENEDICT TORVALDS I BANISH YOU FROM HERE" src="https://github.com/user-attachments/assets/28262b60-1fcc-47a2-ae6f-b04f2766b108">
+I mainly use <a href="https://codeberg.org/sjm">Codeberg</a> now. You know, because <a href="https://en.wikipedia.org/wiki/Criticism_of_Microsoft#Push_for_artificial_intelligence_features">Microsoft</a> are <a href="https://ftp.itvision.altervista.org/why-windows-11-sucks.html">awful</a>.

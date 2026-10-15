@@ -1,1 +1,1 @@
-I mainly use <a href="https://codeberg.org/sjm">Codeberg</a> now. You know, because <a href="https://en.wikipedia.org/wiki/Criticism_of_Microsoft#Push_for_artificial_intelligence_features">Microsoft</a> are <a href="https://ftp.itvision.altervista.org/why-windows-11-sucks.html">awful</a>.
+I mainly use <a href="https://codeberg.org/sjm">Codeberg</a> now. You know, because <a href="https://en.wikipedia.org/wiki/Criticism_of_Microsoft#Push_for_artificial_intelligence_features">Microsoft</a> are awful.
